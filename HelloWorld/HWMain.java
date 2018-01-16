@@ -9,6 +9,8 @@ public class HWMain {
 		System.out.println("Hello again");
 		System.out.println("");
 		System.out.println(HWHelper.getHelperString());
+		System.out.println("");
+		System.out.println(HWHelper2.getHelperString());
 	}
 
 }
