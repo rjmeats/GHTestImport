@@ -6,6 +6,7 @@ public class HWHelper2 {
 				HWBranch1Helper.getHelperString();
 		s += "\r\n" + "change made to master";
 		s += "\r\n" + "change made to branch1";
+		s += "\r\nAnother change, on master";
 		return s;
 	}
 	
