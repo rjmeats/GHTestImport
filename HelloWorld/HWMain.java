@@ -11,6 +11,8 @@ public class HWMain {
 		System.out.println(HWHelper2.getHelperString());
 		System.out.println("");
 		System.out.println("Added at the end of main");
+		System.out.println("");
+		System.out.println("Added at the end of main after recreating and cloning");
 	}
 	// Comment added in branch1
 }
