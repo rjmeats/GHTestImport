@@ -13,6 +13,8 @@ public class HWMain {
 		System.out.println("Added at the end of main");
 		System.out.println("");
 		System.out.println("Added at the end of main after recreating and cloning");
+		System.out.println("");
+		System.out.println("Added at the end of main after recreating and cloning for a second time");
 	}
 	// Comment added in branch1
 }
